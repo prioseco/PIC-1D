@@ -9,4 +9,6 @@ Initial_Distributions/.DS_Store
 .ipynb_checkpoints/ini_dat-checkpoint.ipynb
 .ipynb_checkpoints/pic_1_termal-T3-checkpoint.ipynb
 .ipynb_checkpoints/post_pro_thermal-checkpoint.ipynb
-Images/.ipynb_checkpoints/particle_shapes-checkpoint.png
+Images/
+Initial_Distributions/
+Results/
